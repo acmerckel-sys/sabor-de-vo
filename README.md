@@ -19,3 +19,7 @@ Facilitar a organização dos pedidos, acompanhar as movimentações de ingredie
 - Alertas de estoque mínimo.
 
 Projeto acadêmico de Análise e Desenvolvimento de Sistemas.
+## Organização do projeto
+
+O sistema utiliza Flask para disponibilizar as funcionalidades
+de gerenciamento de pedidos e controle de estoque.
